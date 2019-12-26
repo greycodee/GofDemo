@@ -8,5 +8,6 @@
 - [工厂方法模式](https://github.com/z573419235/GofDemo/tree/master/src/main/java/top/mjava/factory/factory)
 - [抽象工厂模式](https://github.com/z573419235/GofDemo/tree/master/src/main/java/top/mjava/factory/abstractFactory)
 - [原型模式](https://github.com/z573419235/GofDemo/tree/master/src/main/java/top/mjava/prototype)
+- [建造者模式](https://github.com/z573419235/GofDemo/tree/master/src/main/java/top/mjava/builder)
 ### 行为型模式
 - [模板方法模式](https://github.com/z573419235/GofDemo/tree/master/src/main/java/top/mjava/temolateMethod)
