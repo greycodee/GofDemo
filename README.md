@@ -1,7 +1,5 @@
 # 一个故事一个模式系列案例源代码
-
-[![](https://img.shields.io/badge/README-%E8%AE%A2%E9%98%85-orange)](https://baidu.com)
-[![](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
+[![](https://img.shields.io/badge/设计模式-一个故事一个模式-green)](https://mjava.top) [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E7%82%B9%E5%87%BB%E8%BF%9B%E5%85%A5-orange)](https://mjava.top)
 
 >文章地址:https://mjava.top/categories/GOF/
 
