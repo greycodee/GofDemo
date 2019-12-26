@@ -1,4 +1,7 @@
 # 一个故事一个模式系列案例源代码
+
+![](https://img.shields.io/badge/README-%E8%AE%A2%E9%98%85-orange)![](https://img.shields.io/badge/README-%E8%AE%A2%E9%98%85-orange)
+
 >文章地址:https://mjava.top/categories/GOF/
 
 ## 目录
